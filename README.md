@@ -16,7 +16,7 @@ GraphIntelligence Core is a full-stack intelligence system designed to visualize
 * **Library**: React Force Graph for network visualization.
 
 ## My Role
-As an **Informatics student at Telkom University**, I developed this project as a **Full-stack Developer**. I was responsible for:
+I developed this project as a **Full-stack Developer**. I was responsible for:
 * Designing and implementing the Go-based REST API.
 * Building the interactive frontend and intelligence dashboard.
 * Managing the database schema and real-time data integration with Supabase.
